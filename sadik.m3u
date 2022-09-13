@@ -174,6 +174,6 @@ http://10.28.28.2:8080/roarzone/96/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/dt4jhPH/image.png" group-title="Ungrouped", &PICTURES HD
 http://10.28.28.2:8080/roarzone/100/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/mNMvcpV/image.png" group-title="Ungrouped", Disney Channel
-http://xc.biswas-tv.xyz:8880/live/sajeed5132/01716655132/1954.m3u8
+http://xc.biswas-tv.xyz:8880/live/sajeed5132/01716655132/1954.ts
 #EXTINF: -1 tvg-logo="https://i.ibb.co/BNmQ63n/image.png" group-title="Ungrouped", Hungama Channel
-http://xc.biswas-tv.xyz:8880/live/sajeed5132/01716655132/33.m3u8
+http://xc.biswas-tv.xyz:8880/live/sajeed5132/01716655132/33.ts
